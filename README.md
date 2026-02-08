@@ -40,16 +40,16 @@
 <body>
 
 <div id="letterBox">
-  <div id="pageText">Dear Iksha,<br><br>Do you know someone is thinking of you right now? 😌</div>
+  <div id="pageText">Dear Iksha budu,<br><br>Do you know someone is thinking of you right now? 😌</div>
   <button id="nextBtn">Next ❤️</button>
 </div>
 
 <script>
   const pages = [
-    "Since the day we met, you became my favorite thought.",
-    "Every moment with you feels like a new adventure…",
+    "Since the day we started talking i found my wife that day, you became my wifey for my whole life .",
+    "Every moment with you feels like need more time to spend with you always in my entire life …",
     "I realized something very important…",
-    "My Budi, Iksha Thamsang, will you be my forever Player 2? 💍❤️"
+    "My Budi, Iksha Thamsang, will you be my velentine forever in my entire life? 💍❤️"
   ];
 
   let currentPage = 0;
